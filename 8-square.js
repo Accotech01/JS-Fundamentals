@@ -12,7 +12,7 @@ if (isNaN(arg)){
 
         let row =' ';
         for(let j = 0; j<arg; j++){
-            row += 'X '
+            row += 'X'
     }
     console.log(row)
 }
