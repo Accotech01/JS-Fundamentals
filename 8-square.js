@@ -10,11 +10,11 @@ if (isNaN(arg)){
 
     for (let i = 0; i<arg; i++){
 
-        let row =' ';
+        let size =' ';
         for(let j = 0; j<arg; j++){
-            row += 'X'
+            size += 'X'
     }
-    console.log(row)
+    console.log(size)
 }
 
 }
